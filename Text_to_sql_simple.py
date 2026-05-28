@@ -76,3 +76,4 @@ if __name__ == "__main__":
             break
         total = interpretar_texto(comando)
         print(total)
+ # --- hecho por Jose Rodriguez ---
